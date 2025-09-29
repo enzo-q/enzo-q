@@ -64,6 +64,7 @@
       <td>
          <ul>
             <li>IBM Db2 Cloud</li>
+            <li>Supabase</li>
             <li>MySQL</li>
          </ul>
       </td>
