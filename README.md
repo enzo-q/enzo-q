@@ -56,7 +56,6 @@ I became interested in programming after seeing experienced developers build awe
 
 ---
 
-### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enzo-q&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" height="150" />
