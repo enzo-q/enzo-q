@@ -25,7 +25,6 @@ I became interested in programming after seeing experienced developers build awe
 
 ### 🎓 Education
 * **BS in Computer Science** | *New Era University* (2023 - Present)
-* **SHS (STEM)** | *New Era University* (2020 - 2023)
 
 ---
 
