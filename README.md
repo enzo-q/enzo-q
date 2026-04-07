@@ -18,17 +18,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I became interested in programming after seeing experienced developers build awesome apps and websites, and also because of my love for video games, especially indie titles. I want to build, learn, and grow as much as I can. There's no easy career path in the first place, so why not choose one of the hardest and most rewarding?
 
 ---
 
-### 🎓 Education
+### Education
 * **BS in Computer Science** | *New Era University* (2023 - Present)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Programming Languages** <br>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
@@ -47,7 +47,7 @@ I became interested in programming after seeing experienced developers build awe
 
 ---
 
-### 📜 Certifications
+### Certifications
 * **Oracle Learning:** <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22310FBC01945E531146CF325A1DA310082DC6F0EA7ABC05D84F2F715A94AFC" target="_blank">OCI Certified Foundations Associate</a>
 * **Oracle Learning:** <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22310FBC01945E531146CF325A1DA312A77362A85E2B1C2CE2718A33718964F" target="_blank">OCI Data Certified Foundations Associate</a>
 * **Oracle Learning:** <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=44C9B68D1754CEBC5D55D5F996BFBBA4C6AB0E15CE6832561D3A69B4878F283B" target="_blank">OCI Certified AI Foundations Associate</a>
