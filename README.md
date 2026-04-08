@@ -52,10 +52,3 @@ I became interested in programming after seeing experienced developers build awe
 * **Oracle Learning:** <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22310FBC01945E531146CF325A1DA312A77362A85E2B1C2CE2718A33718964F" target="_blank">OCI Data Certified Foundations Associate</a>
 * **Oracle Learning:** <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=44C9B68D1754CEBC5D55D5F996BFBBA4C6AB0E15CE6832561D3A69B4878F283B" target="_blank">OCI Certified AI Foundations Associate</a>
 * **Cognitive Class:** <a href="https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f" target="_blank">SQL and Relational Databases 101</a>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzo-q&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages" height="150" />
-</div>
