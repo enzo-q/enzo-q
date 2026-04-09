@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=enzo-q&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <br><br>
-  
   <img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif" alt="Credits to Mienar" width="600">
 
   <h1>Hi, I'm Nheo ✌️</h1>
