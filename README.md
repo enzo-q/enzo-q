@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-I became interested in programming after seeing experienced developers build awesome apps and websites, and also because of my love for video games, especially indie titles. I want to build, learn, and grow as much as I can. There's no easy career path in the first place, so why not choose one of the hardest and most rewarding?
+I became interested in programming after seeing experienced developers build awesome apps and websites, and also because of my love for video games, especially indie titles. I want to build, and learn more. There's no easy career path in the first place, so why not choose one of the hardest and most rewarding?
 
 ---
 
