@@ -18,6 +18,8 @@
 ### About Me
 I became interested in programming after seeing experienced developers build awesome apps and websites, and also because of my love for video games, especially indie titles. I want to build, and learn more. There's no easy career path in the first place, so why not choose one of the hardest and most rewarding?
 
+* **Currently working on:** Expanding my full-stack capabilities and... just thinking about the future.
+
 ---
 
 ### Education
@@ -27,18 +29,16 @@ I became interested in programming after seeing experienced developers build awe
 
 ### Tech Stack
 
-| Category |  |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /> |
-| **Backend & BaaS** | <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=red" /> |
-| **Databases** | <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/IBM%20Db2-052FAD?style=flat-square&logo=ibm&logoColor=white" /> |
-| **Tools** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Laragon-00A9E2?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" /> |
+| **Languages** | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white" /> |
+| **Backend & Data** | <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" /> |
+| **Tools & Infrastructure** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white" /> |
 
 ---
 
-### Certifications
-* **Oracle Learning:** <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22310FBC01945E531146CF325A1DA310082DC6F0EA7ABC05D84F2F715A94AFC" target="_blank">OCI Certified Foundations Associate</a>
-* **Oracle Learning:** <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=C22310FBC01945E531146CF325A1DA312A77362A85E2B1C2CE2718A33718964F" target="_blank">OCI Data Certified Foundations Associate</a>
-* **Oracle Learning:** <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=44C9B68D1754CEBC5D55D5F996BFBBA4C6AB0E15CE6832561D3A69B4878F283B" target="_blank">OCI Certified AI Foundations Associate</a>
-* **Cognitive Class:** <a href="https://courses.cognitiveclass.ai/certificates/affe1f6bd68c4e1cafc87bf22bbb135f" target="_blank">SQL and Relational Databases 101</a>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</div>
