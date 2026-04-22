@@ -40,5 +40,4 @@ I became interested in programming after seeing experienced developers build awe
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </div>
