@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-My programming journey started with a love for games and a curiosity about how developers build such awesome web apps and games. I want to build, tackle some BUGS(💔), and learn more in the process. Software development is never easy, but that's exactly what makes it so rewarding.
+My programming journey started with a love for games and a curiosity about how developers build such awesome web apps and games. I want to build, tackle some BUGS(💔), and learn more in the process. Software development is never easy, of course, but that's exactly what makes it so rewarding.
 
 * **Currently working on:** Expanding my full-stack capabilities and... just thinking about the future.
 
