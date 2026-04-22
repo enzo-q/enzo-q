@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-I became interested in programming after seeing experienced developers build awesome apps and websites, and also because of my love for video games, especially indie titles. I want to build, and learn more. There's no easy career path in the first place, so why not choose one of the hardest and most rewarding?
+My programming journey started with a love for games and a curiosity about how developers build such awesome web apps and games. I want to build, tackle some BUGS, and learn more in the process. Software development is never easy, but that's exactly what makes it so rewarding.
 
 * **Currently working on:** Expanding my full-stack capabilities and... just thinking about the future.
 
