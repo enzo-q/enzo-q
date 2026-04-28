@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=E2E8F0&fontColor=1E293B&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn" alt="Header" />
   </picture>
 
@@ -25,7 +25,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" />
 </picture>
 
 ### About Me
@@ -36,7 +36,7 @@ My programming journey started with a love for games and a curiosity about how d
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" />
 </picture>
 
 ### Education
@@ -45,7 +45,7 @@ My programming journey started with a love for games and a curiosity about how d
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" />
 </picture>
 
 ### Tech Stack
@@ -60,7 +60,7 @@ My programming journey started with a love for games and a curiosity about how d
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" />
 </picture>
 
 <div align="center">
