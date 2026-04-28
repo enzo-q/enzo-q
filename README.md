@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=3">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=3" alt="Header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=E2E8F0&fontColor=1E293B&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn" alt="Header" />
   </picture>
 
   <img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif" alt="Credits to Mienar" width="600">
