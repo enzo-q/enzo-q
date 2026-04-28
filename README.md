@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=2">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=2" alt="Header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=3">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn&v=3" alt="Header" />
   </picture>
 
   <img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif" alt="Credits to Mienar" width="600">
@@ -10,9 +10,9 @@
   
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=2">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=2">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=2" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=3">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=3" alt="Typing SVG" />
     </picture>
   </a>
   <br>
@@ -23,9 +23,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=2">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=2" alt="Divider" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3" alt="Divider" />
 </picture>
 
 ### About Me
@@ -34,18 +34,18 @@ My programming journey started with a love for games and a curiosity about how d
 * **Currently working on:** Expanding my full-stack capabilities and... just thinking about the future.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=2">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=2" alt="Divider" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3" alt="Divider" />
 </picture>
 
 ### Education
 * **BS in Computer Science** | New Era University (2023 - Present)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=2">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=2" alt="Divider" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3" alt="Divider" />
 </picture>
 
 ### Tech Stack
@@ -58,23 +58,29 @@ My programming journey started with a love for games and a curiosity about how d
 | Tools/Platforms | <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white" /> |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=2">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=2" alt="Divider" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3" alt="Divider" />
 </picture>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzo-q/enzo-q/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzo-q/enzo-q/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzo-q/enzo-q/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=enzo-q&theme=dark&no-bg=true&margin-w=15&v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=enzo-q&theme=flat&no-bg=true&margin-w=15&v=3">
+    <img src="https://github-profile-trophy.vercel.app/?username=enzo-q&theme=flat&no-bg=true&margin-w=15&v=3" alt="My GitHub Trophies" />
   </picture>
   
   <br><br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=dark&text_bold=false&border_radius=15&v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=graywhite&text_bold=false&border_radius=15&v=2">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=transparent&hide_border=true&text_bold=false&border_radius=15&v=2" alt="My GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=dark&text_bold=false&border_radius=15&v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=graywhite&text_bold=false&border_radius=15&v=3">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=transparent&hide_border=true&text_bold=false&border_radius=15&v=3" alt="My GitHub Stats">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&custom_title=Used%20Languages...?%20🤔&layout=compact&theme=dark&border_radius=15&v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&custom_title=Used%20Languages...?%20🤔&layout=compact&theme=graywhite&border_radius=15&v=3">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&custom_title=Used%20Languages...?%20🤔&layout=compact&theme=transparent&hide_border=true&border_radius=15&v=3" alt="My Top Languages">
   </picture>
 </div>
