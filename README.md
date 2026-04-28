@@ -77,10 +77,3 @@ My programming journey started with a love for games and a curiosity about how d
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=graywhite&text_bold=false&border_radius=15&v=3">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=transparent&hide_border=true&text_bold=false&border_radius=15&v=3" alt="My GitHub Stats">
   </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&custom_title=Used%20Languages...?%20🤔&layout=compact&theme=dark&border_radius=15&v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&custom_title=Used%20Languages...?%20🤔&layout=compact&theme=graywhite&border_radius=15&v=3">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-q&custom_title=Used%20Languages...?%20🤔&layout=compact&theme=transparent&hide_border=true&border_radius=15&v=3" alt="My Top Languages">
-  </picture>
-</div>
