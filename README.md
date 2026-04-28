@@ -40,8 +40,8 @@ My programming journey started with a love for games and a curiosity about how d
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=These%20Are...%20My%20Stats?%20🤔&show_icons=true&theme=dark&text_bold=false&border_radius=15" alt="My GitHub Stats">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=These%20Are...%20My%20Stats?%20🤔&show_icons=true&theme=graywhite&text_bold=false&border_radius=15" alt="My GitHub Stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=These%20Are...%20My%20Stats?%20🤔&show_icons=true&theme=transparent&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats" alt="My GitHub Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=dark&text_bold=false&border_radius=15" alt="My GitHub Stats">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=graywhite&text_bold=false&border_radius=15" alt="My GitHub Stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=transparent&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats" alt="My GitHub Stats">
   </picture>
 </div>
