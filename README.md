@@ -23,7 +23,7 @@ My programming journey started with a love for games and a curiosity about how d
 ---
 
 ### Education
-* **BS in Computer Science** | *New Era University* (2023 - Present)
+* **BS in Computer Science** | New Era University (2023 - Present)
 
 ---
 
