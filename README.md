@@ -66,7 +66,7 @@ My programming journey started with a love for games and a curiosity about how d
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=enzo-q&theme=dark&no-bg=true&margin-w=15&v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=enzo-q&theme=flat&no-bg=true&margin-w=15&v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=enzo-q&theme=tokyonight&no-bg=true&margin-w=15&v=3">
     <img src="https://github-profile-trophy.vercel.app/?username=enzo-q&theme=flat&no-bg=true&margin-w=15&v=3" alt="My GitHub Trophies" />
   </picture>
   
