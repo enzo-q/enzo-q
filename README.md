@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=1E293B&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=E2E8F0&fontColor=1E293B&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn" alt="Header" />
   </picture>
 
@@ -22,31 +22,37 @@
   </p>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" />
-</picture>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" width="100%" />
+  </picture>
+</div>
 
 ### About Me
 My programming journey started with a love for games and a curiosity about how developers build such awesome web apps and games. I want to build, tackle some BUGS (💔), and learn more in the process. Software development is never easy, of course, but that's exactly what makes it so rewarding.
 
 * **Currently working on:** Expanding my full-stack capabilities and... just thinking about the future.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" />
-</picture>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" width="100%" />
+  </picture>
+</div>
 
 ### Education
 * **BS in Computer Science** | New Era University (2023 - Present)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" />
-</picture>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" width="100%" />
+  </picture>
+</div>
 
 ### Tech Stack
 
@@ -57,11 +63,13 @@ My programming journey started with a love for games and a curiosity about how d
 | Backend & Data | <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white" /> |
 | Tools/Platforms | <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white" /> |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" />
-</picture>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" alt="Divider" width="100%" />
+  </picture>
+</div>
 
 <div align="center">
   <picture>
