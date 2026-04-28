@@ -39,5 +39,9 @@ My programming journey started with a love for games and a curiosity about how d
 ---
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=dark&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats")">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=default&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats")">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=dark&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats">
+  </picture>
 </div>
