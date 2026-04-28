@@ -1,8 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi,%20I'm%20Nheo%20✌️&fontSize=70&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=E2E8F0&fontColor=1E293B&height=200&section=header&text=Hi,%20I'm%20Nheo%20✌️&fontSize=70&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi,%20I'm%20Nheo%20✌️&fontSize=70&animation=fadeIn" alt="Header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A5D73&fontColor=FFFFFF&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=E2E8F0&fontColor=1E293B&height=200&section=header&text=Hi%2C%20I%27m%20Nheo&fontSize=70&animation=fadeIn" alt="Header" />
   </picture>
 
   <img src="https://images.squarespace-cdn.com/content/v1/5fe4caeadae61a2f19719512/1721115005754-CRL27OWA47LU30WWERL1/16.gif" alt="Credits to Mienar" width="600">
@@ -11,8 +10,7 @@
   <a href="https://git.io/typing-svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast" alt="Typing SVG" />
     </picture>
   </a>
   <br>
@@ -24,8 +22,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer" width="100%" alt="divider" />
 </picture>
 
 ### About Me
@@ -35,8 +32,7 @@ My programming journey started with a love for games and a curiosity about how d
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer" width="100%" alt="divider" />
 </picture>
 
 ### Education
@@ -44,8 +40,7 @@ My programming journey started with a love for games and a curiosity about how d
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer" width="100%" alt="divider" />
 </picture>
 
 ### Tech Stack
@@ -59,14 +54,12 @@ My programming journey started with a love for games and a curiosity about how d
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer" width="100%" alt="divider" />
 </picture>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzo-q/enzo-q/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzo-q/enzo-q/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzo-q/enzo-q/output/github-contribution-grid-snake.svg">
   </picture>
   
@@ -74,7 +67,6 @@ My programming journey started with a love for games and a curiosity about how d
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=dark&text_bold=false&border_radius=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=graywhite&text_bold=false&border_radius=15">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=transparent&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&custom_title=My%20Stats...?%20🤔&show_icons=true&theme=graywhite&text_bold=false&border_radius=15" alt="My GitHub Stats">
   </picture>
 </div>
