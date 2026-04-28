@@ -39,11 +39,5 @@ My programming journey started with a love for games and a curiosity about how d
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark) and (color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=midnight-purple&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=dark&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=default&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=dark&hide_border=true&text_bold=false&border_radius=15" alt="My GitHub Stats" alt="My GitHub Stats">
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enzo-q&show_icons=true&theme=dark&hide_border=true&text_bold=false&border_radius=15" alt="GitHub Stats">
 </div>
-
