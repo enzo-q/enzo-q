@@ -63,7 +63,8 @@ My programming journey started with a love for games and a curiosity about how d
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3" alt="Divider" />
 </picture>
 
-### Achievements...?!
+<br><br>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=enzo-q&theme=dracula&no-bg=true&margin-w=15&v=4">
