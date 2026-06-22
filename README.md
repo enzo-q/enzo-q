@@ -10,9 +10,9 @@
   
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=3">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=3">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Student+at+New+Era+University;Full-Stack+Developer;Indie+Game+Enthusiast&v=3" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Science;Software+Developer;Indie+Game+Enthusiast&v=3">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Computer+Science;Software+Developer;Indie+Game+Enthusiast&v=3">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=1E293B&center=true&vCenter=true&width=500&lines=Computer+Science;Software+Developer;Indie+Game+Enthusiast&v=3" alt="Typing SVG" />
     </picture>
   </a>
   <br>
