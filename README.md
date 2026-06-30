@@ -27,8 +27,6 @@
 ### About Me
 My programming journey started with a love for games and a curiosity about how developers build such awesome web apps and games. I want to build, tackle some BUGS (💔), and learn more in the process. I love to read novels, especially chinese xianxia genre, and playing games too during free times. Software development is never easy, of course, but that's exactly what makes it so rewarding.
 
-* **Currently working on:** Expanding my full-stack capabilities and... just thinking about the future.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=3">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=E2E8F0&height=2&section=footer&v=3">
