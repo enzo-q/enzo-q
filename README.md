@@ -25,7 +25,7 @@
 </picture>
 
 ### About Me
-My programming journey started with a love for games and a curiosity about how developers build such awesome web apps and games. I want to build, tackle some BUGS (💔), and learn more in the process. I love to read novels, especially chinese xianxia genre, and playing games too during free times. Software development is never easy, of course, but that's exactly what makes it so rewarding.
+My programming journey started with a love for games and a curiosity about how developers build such awesome web apps and games. I want to build, tackle some bugs, and learn more in the process. Networking is also something I'm really interested in; tweaking switches and routers, down to the internet and VPNs. I love to read novels, especially chinese xianxia genre, and playing games too during free times. Software development is never easy, of course, but that's exactly what makes it so rewarding.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=4A5D73&height=2&section=footer&v=3">
